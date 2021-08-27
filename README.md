@@ -176,12 +176,12 @@ Below is a visualization of where our recommended regions are located:
 
 
 ## Contributors
-- Harmandip Singh <br>
-    Github: hs1692<br>
 - Sanjit Varma <br>
-    Github: sanjitva<br>
+    Github: www.github.com/sanjitva<br>
 - Anthony Conte <br>
-    Github: antconte92<br>
+    Github: www.github.com/antconte92<br>
+- Harmandip Singh <br>
+    Github: www.github.com/hs1692<br>
 
 
 ## Project Structure
