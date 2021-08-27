@@ -8,11 +8,9 @@ Sanjit Varma, Anthony Conte and Harmandip Singh
 ## Table of Contents
 * [Overview](#overview)
 * [Business Understanding](#business-understanding)
-* [Data Understanding](#data-understanding)
-* [Data Preparation](#data-preparation)
+* [Data Understanding and Preparation](#data-understanding-and-preparation)
 * [Model Training and Testing](#model-training-and-testing)
-* [Recommendations](#Recommendations)
-* [Conclusions](#Conclusions)
+* [Recommendations and Conclusion](#Recommendations-and-Conclusion)
 * [Contributors](#contributors)
 * [Project Structure](#project-structure)
 
