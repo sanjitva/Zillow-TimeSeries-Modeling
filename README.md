@@ -2,7 +2,7 @@
 
 <img src="images/miamicover.png" width="750">
 
-Project Contributors: Sanjit Varma, Anthony Conte and Harmandip Singh
+Project Contributors: **Sanjit Varma, Anthony Conte and Harmandip Singh**
 
 
 ## Table of Contents
