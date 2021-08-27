@@ -111,14 +111,13 @@ We want to make sure that our residuals are not correlated and also have a norma
 
 <img src="images/histogram.png" width="750">
 
-
 In the histogram, our KDE line somewhat closely follows along the N(0,1) line which is the standard notation for a normal distribution having a mean of 0 and standard deviation of 1. This tells us that the residuals are normally distributed.
 
 
 <img src="images/qqplot.png" width="750">
 
-
 Our qq-plot displays that our residuals are following the linear trend line. This tells us that the residuals seen here are normally distributed.
+
 
 <img src="images/correlogram.png" width="750">
 
@@ -126,6 +125,8 @@ From the Correlogram plot on the bottom left, we see that the time series residu
 
 
 Based on these observations, we can be confident that the model does not have correlations and that it satisfactorily fit our data to forecast future prices.
+
+
 
 <ins> **Testing our Model Performance** </ins>
 
