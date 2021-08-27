@@ -111,14 +111,13 @@ We want to make sure that our residuals are not correlated and also have a norma
 
 <img src="images/histogram.png" width="750">
 
-
 In the histogram, our KDE line somewhat closely follows along the N(0,1) line which is the standard notation for a normal distribution having a mean of 0 and standard deviation of 1. This tells us that the residuals are normally distributed.
 
 
 <img src="images/qqplot.png" width="750">
 
-
 Our qq-plot displays that our residuals are following the linear trend line. This tells us that the residuals seen here are normally distributed.
+
 
 <img src="images/correlogram.png" width="750">
 
@@ -127,6 +126,9 @@ From the Correlogram plot on the bottom left, we see that the time series residu
 
 Based on these observations, we can be confident that the model does not have correlations and that it satisfactorily fit our data to forecast future prices.
 
+
+
+<ins> **Testing our Model Performance** </ins>
 
 Having fit our training data, we then received predictions for the period between May, 2016 and April 2018; the same period that was used for our test data. We plotted these predictions on the same chart to see how far/close they were from each other.
 
@@ -174,24 +176,22 @@ Below is a visualization of where our recommended regions are located:
 
 
 ## Contributors
-- Harmandip Singh <br>
-    Github: hs1692<br>
 - Sanjit Varma <br>
-    Github: sanjitva<br>
+    Github: www.github.com/sanjitva<br>
 - Anthony Conte <br>
-    Github: antconte92<br>
+    Github: www.github.com/antconte92<br>
+- Harmandip Singh <br>
+    Github: www.github.com/hs1692<br>
 
 
 ## Project Structure
 ```
-├── P2_Project.ipynb
+├── final_notebook.ipynb
 ├── README.md
 ├── data
 ├── images
 └── tools
     ├── __init__.py
-    ├── data_preparation.py
-    ├── data_visualization.py
     └── helpers.py
 ```
 
