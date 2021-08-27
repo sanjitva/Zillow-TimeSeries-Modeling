@@ -127,6 +127,7 @@ From the Correlogram plot on the bottom left, we see that the time series residu
 
 Based on these observations, we can be confident that the model does not have correlations and that it satisfactorily fit our data to forecast future prices.
 
+<ins> **Testing our Model Performance** </ins>
 
 Having fit our training data, we then received predictions for the period between May, 2016 and April 2018; the same period that was used for our test data. We plotted these predictions on the same chart to see how far/close they were from each other.
 
