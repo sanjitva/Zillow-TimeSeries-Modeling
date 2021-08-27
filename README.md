@@ -127,6 +127,7 @@ From the Correlogram plot on the bottom left, we see that the time series residu
 Based on these observations, we can be confident that the model does not have correlations and that it satisfactorily fit our data to forecast future prices.
 
 
+</n>
 
 <ins> **Testing our Model Performance** </ins>
 
