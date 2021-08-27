@@ -184,14 +184,12 @@ Below is a visualization of where our recommended regions are located:
 
 ## Project Structure
 ```
-├── P2_Project.ipynb
+├── final_notebook.ipynb
 ├── README.md
 ├── data
 ├── images
 └── tools
     ├── __init__.py
-    ├── data_preparation.py
-    ├── data_visualization.py
     └── helpers.py
 ```
 
