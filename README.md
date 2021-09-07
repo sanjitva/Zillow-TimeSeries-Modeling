@@ -121,7 +121,7 @@ Our qq-plot displays that our residuals are following the linear trend line. Thi
 
 <img src="images/correlogram.png" width="750">
 
-From the Correlogram plot on the bottom left, we see that the time series residuals diaplay low correlations with their lagged versions. This is clearer as we move further along the time series. This tells us there isn't obvious seasonality in our series.
+From the Correlogram plot on the bottom left, we see that the time series residuals display low correlations with their lagged versions. This is clearer as we move further along the time series. This tells us there isn't obvious seasonality in our series.
 
 
 Based on these observations, we can be confident that the model does not have correlations and that it satisfactorily fit our data to forecast future prices.
